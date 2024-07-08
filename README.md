@@ -1,5 +1,10 @@
 ## Top Interview 150
 
+這是我使用JavaScript解Leetcode題目的記錄，每一題都會包含：
+
+* 解題的步驟
+* 實作的程式碼
+
 ### (1) Array & String
 * [6. Zigzag Conversion ](./01.%20Array%20&%20String/6.%20Zigzag%20Conversion.md "Title") <font color=#FFD306>- Medium</font>
 * [12. Integer to Roman ](./01.%20Array%20&%20String/12.%20Integer%20to%20Roman.md "Title") <font color=#FFD306>- Medium</font>
